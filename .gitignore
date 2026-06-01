@@ -1,0 +1,15 @@
+# Build
+build/
+cmake-build-*/
+compile_commands.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Assets (large files)
+assets/bunny.obj
